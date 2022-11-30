@@ -1,5 +1,5 @@
 # sdn-project
-An old college project.
+College project
 
 Project that allows you to route the traffic between two networks through two different paths (s1-s2-s3-s6 or s1-s4-s5-s6). 
 Path switching can be done either manually (manual.py and path.cfg files) or automatically, based on bandwidth threshold which is set in pathbw.cfg file. 
